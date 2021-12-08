@@ -5,6 +5,7 @@ metadata:
   name: tanzu-system-service-discovery
 
 ---
+apiVersion: v1
 kind: ConfigMap
 metadata:
   name: krb5.conf
