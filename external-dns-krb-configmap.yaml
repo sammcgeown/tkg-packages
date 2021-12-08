@@ -7,7 +7,6 @@ metadata:
 ---
 kind: ConfigMap
 metadata:
-  creationTimestamp: null
   name: krb5.conf
   namespace: tanzu-system-service-discovery
 data:
